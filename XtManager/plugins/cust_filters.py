@@ -721,7 +721,7 @@ __mod_name__ = "FILTERS"
 
 # <================================================ HANDLER =======================================================>
 FILTER_HANDLER = CommandHandler("filter", filters, block=False)
-STOP_HANDLER = CommandHandler("stop", stop_filter, block=False)
+STOP_HANDLER = CommandHandler("stopfilter", stop_filter, block=False)
 RMALLFILTER_HANDLER = CommandHandler(
     "removeallfilters",
     rmall_filters,
