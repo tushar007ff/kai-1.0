@@ -10,14 +10,14 @@ from XtManager import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/2589fd239983af77acf2e.jpg",
+    "https://graph.org/file/cc3cd65371aff04d41fb2.jpg",
 "https://graph.org/file/db68a011cb650281425e9.jpg",
 "https://graph.org/file/6dd42119af32b7eadf8f9.jpg",
 "https://graph.org/file/351ac59f6f5b0e25c79c6.jpg",
-"https://telegra.ph/file/b5ca38c6bc71d4a611782.jpg",
+"https://graph.org/file/254ea73cd6957392c2e3a.jpg",
 "https://graph.org/file/ae8ac6d6baea5c86e235f.jpg",
-"https://telegra.ph/file/c34a45de776a71615e63e.jpg",
-"https://telegra.ph/file/c5aa83c664f5193acfe17.jpg",
+"https://graph.org/file/e317a46fa6037d994bba3.jpg",
+"https://graph.org/file/5d074b328bf83b6b8645f.jpg",
 "https://graph.org/file/c4d0a5531c5f7186efc2f.jpg",
 "https://graph.org/file/2ca1329665b84621093b7.jpg",
 "https://graph.org/file/2ca1329665b84621093b7.jpg",
