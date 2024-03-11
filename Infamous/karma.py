@@ -26,7 +26,7 @@ START_IMG = [
 "https://graph.org/file/2ca1329665b84621093b7.jpg"
 ]
 
-HEY_IMG = "https://graph.org/file/3740819ccb58317741e8e.jpg"
+HEY_IMG = "https://graph.org/file/2ca1329665b84621093b7.jpg",
 
 ALIVE_ANIMATION = [
     "https://telegra.ph/file/3274b73a7ba7b94c2bd7e.mp4",
