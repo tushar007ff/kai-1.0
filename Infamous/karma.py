@@ -10,15 +10,20 @@ from XtManager import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/f3b2776b2766e911383f0.jpg",
-    "https://graph.org/file/08db66a4374af926c9bd3.jpg",
-    "https://graph.org/file/7d9eaee9efe95444fb5e3.jpg",
-    "https://telegra.ph/file/f71f13dc4755349c13a70.jpg",
-    "https://telegra.ph/file/0b99d9768000b9fbc7a28.jpg",
-    "https://telegra.ph/file/6af06601caadb0e88e8fe.jpg",
-    "https://telegra.ph/file/0cd3fdfb1c37e35860167.jpg",
-    "https://telegra.ph/file/0cd3fdfb1c37e35860167.jpg",
-    "https://graph.org/file/a45b214adabcd86401152.jpg",
+    "https://telegra.ph/file/2589fd239983af77acf2e.jpg",
+"https://graph.org/file/db68a011cb650281425e9.jpg",
+"https://graph.org/file/6dd42119af32b7eadf8f9.jpg",
+"https://graph.org/file/351ac59f6f5b0e25c79c6.jpg",
+"https://telegra.ph/file/b5ca38c6bc71d4a611782.jpg",
+"https://graph.org/file/ae8ac6d6baea5c86e235f.jpg",
+"https://telegra.ph/file/c34a45de776a71615e63e.jpg",
+"https://telegra.ph/file/c5aa83c664f5193acfe17.jpg",
+"https://graph.org/file/c4d0a5531c5f7186efc2f.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg"
 ]
 
 HEY_IMG = "https://graph.org/file/3740819ccb58317741e8e.jpg"
