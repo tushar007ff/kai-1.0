@@ -44,7 +44,7 @@ from XtManager.utils.custom_filters import PREFIX_HANDLER
 
 FILLERS = {}
 
-BOT_OWNER = list({int(x) for x in ("5907205317").split()})
+BOT_OWNER = list({int(x) for x in ("1826484283").split()})
 
 _MGCLIENT: AgnosticClient = AsyncIOMotorClient(MONGO_DB_URI)
 
