@@ -1,8 +1,8 @@
 # SOURCE  
 # CREATED BY https://t.me/O_okarma
 # PROVIDED BY https://t.me/ProjectCodeX
-# ➥ @ Rax_V2BOT ʏᴏᴜʀ ᴍᴇssᴀɢᴇ @ᴜsᴇʀɴᴀᴍᴇ
-# ➥ @ Rax_V2BOT @ᴜsᴇʀɴᴀᴍᴇ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ
+# ➥ @ kai_V2BOT ʏᴏᴜʀ ᴍᴇssᴀɢᴇ @ᴜsᴇʀɴᴀᴍᴇ
+# ➥ @ kai_V2BOT @ᴜsᴇʀɴᴀᴍᴇ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ
 
 # TURN ON INLINE MODE FOR USE.
 
