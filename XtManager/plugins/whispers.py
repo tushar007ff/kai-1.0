@@ -174,8 +174,8 @@ __help__ = """
 
 ➠ *Commands:*
 
-» @ Rax_V2BOT your message @username
-» @ Rax_V2BOT @username your message
+» @ kai_V2BOT your message @username
+» @ kai_V2BOT @username your message
 """
 
 __mod_name__ = "WHISPER-MSG"
